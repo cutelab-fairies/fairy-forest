@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_R11_EAC": "../dock3_phong1_Metallic_COMPRESSED_R11_EAC.ktx",
+        "COMPRESSED_RED_RGTC1": "../dock3_phong1_Metallic_COMPRESSED_RED_RGTC1.ktx"
+    },
+    "original": "../dock3_phong1_Metallic.png",
+    "uncompressed": ""
+}
