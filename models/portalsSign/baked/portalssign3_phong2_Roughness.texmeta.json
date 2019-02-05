@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_R11_EAC": "../portalssign3_phong2_Roughness_COMPRESSED_R11_EAC.ktx",
+        "COMPRESSED_RED_RGTC1": "../portalssign3_phong2_Roughness_COMPRESSED_RED_RGTC1.ktx"
+    },
+    "original": "../portalssign3_phong2_Roughness.png",
+    "uncompressed": ""
+}
